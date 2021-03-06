@@ -17,13 +17,16 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        android:onClick="showToast"
+        />
 
     <Button
         android:id="@+id/button_count"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:layout_width="407dp"
+        android:layout_height="61dp"
         android:layout_marginBottom="16dp"
+        android:onClick="countUp"
         android:text="@string/button_label_count"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -32,8 +35,8 @@
 
     <TextView
         android:id="@+id/show_count"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
+        android:layout_width="408dp"
+        android:layout_height="452dp"
         android:background="#FFFF00"
         android:gravity="center|center_vertical"
         android:text="@string/count_initial_value"
