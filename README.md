@@ -1,2 +1,2 @@
-Task 4: Add a TextEdit and set its attributes
-!['Added taxt view and attributes'](./task_4_made_ui.JPG)
+Task 5: Edit the layout in XML
+!['Edited text in string xml file'](./task5_string_res.JPG)
