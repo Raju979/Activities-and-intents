@@ -1,3 +1,3 @@
-Task 2: Add View elements in the layout editor
-!['Delete horizontal constraint'](./delete_horizontal_const.JPG)
-!['Add two buttons'](./add_two_btn.JPG)
+Task 3: Change UI element attributes
+!['change button width'](./task3_button_width.JPG)
+!['change button attribute'](./change_button_attribute.JPG)
