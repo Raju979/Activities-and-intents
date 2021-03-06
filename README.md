@@ -1,3 +1,2 @@
-Task 3: Change UI element attributes
-!['change button width'](./task3_button_width.JPG)
-!['change button attribute'](./change_button_attribute.JPG)
+Task 4: Add a TextEdit and set its attributes
+!['Added taxt view and attributes'](./task_4_made_ui.JPG)
