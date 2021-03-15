@@ -1,2 +1,2 @@
-Task 2: Create and launch the second Activity
-!['Completed Task 2'](./task2_completed.gif)
+Task 3: Send data from the main Activity to the second Activity
+!['Completed Task 3'](./task3_completed.gif)
